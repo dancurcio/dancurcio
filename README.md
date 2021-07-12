@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dancurcio
-- 👀 I’m interested in the cp-gaa-sc-data-eingineering repository.
+- 👀 I’m interested in the Supply Chain Analytics.
 - 🌱 I have SQL experience with Microsoft SQL, hive / HQL & oracle SQL but new to teradata SQL. I have some python development experience. 
 - 💞️ I’m looking to collaborate efforts to create a data lake and or staging tables to drive re-use of data.
 - 📫 How to reach me ...
